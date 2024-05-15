@@ -1,0 +1,11 @@
+sort1 uses: Bubble sort
+
+How do you know?: 最优 n 最坏 n^2
+
+sort2 uses: Merge sort
+
+How do you know?: nlogn 最坏情况最快
+
+sort3 uses: Selection sort
+
+How do you know?: n^2 哪种情况都最慢
